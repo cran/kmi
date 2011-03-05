@@ -13,18 +13,20 @@
 }
 \usage{data(icu.pneu)}
 \format{
-  A data frame with 1421 observations on the following 6 variables.
+  A data frame with 1421 observations on the following 8 variables.
   \describe{
     \item{\code{id}}{Individual patient id.}
-    \item{\code{entry}}{Entry time into the study.}
-    \item{\code{exit}}{Failure time.}
+    \item{\code{start}}{Start of the observation time.}
+    \item{\code{stop}}{Failure time.}
     \item{\code{status}}{Censoring status. 0 if the observation is
       censored, 1 otherwise.}
-    \item{\code{event}}{Event type. 2 is discharge alive, 3 is death in
-      ICU.}
+    \item{\code{event}}{Event type. 2 is death in
+      ICU, 3 is discharge alive}
     \item{\code{pneu}}{Nosocomial pneumonia indicator.}
     \item{\code{adm.cens.exit}}{Exit times for patients discharged alive
       are replaced by their administrative censoring times.}
+    \item{\code{age}}{Age at inclusion}
+    \item{\code{sex}}{Sex. \code{F} for female and \code{M} for male}
   }
 }
 \source{
