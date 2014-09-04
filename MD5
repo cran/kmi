@@ -1,5 +1,5 @@
 f5aa689562839759d76a34079eb17207 *ChangeLog
-d3fdb0477da183c49a3eea3897a69b91 *DESCRIPTION
+8cde2d75282d1c896ff3e2c220961573 *DESCRIPTION
 cfda81db12c5f646907bacc2edefad16 *NAMESPACE
 946e6564399cf69089aaf2bdd2ec14cd *R/cox.kmi.R
 14b8caf85c17ac55ea17a1b42e3d0e0d *R/kmi.R
@@ -16,5 +16,5 @@ c5c3dac6e0a7357e2a9ee6c8b3253016 *man/icu.pneu.Rd
 76a3f1442e8117c86f881386bc20d7fc *man/print.cox.kmi.Rd
 756b9ebd16972c029b054ba2001cd623 *man/print.summary.cox.kmi.Rd
 e6b96bbd9684834226a67095d94191d8 *man/summary.cox.kmi.Rd
-d91a696fc8e21978ca2c9084552207fe *tests/test.kmi.R
-c139a925609aa479d6783ec0bb7c7636 *tests/test.kmi.Rout.save
+4cd9aec85d4d5e8c954880aef62319aa *tests/test.kmi.R
+198567dea2a2fff85c515ad5c4923971 *tests/test.kmi.Rout.save
