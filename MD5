@@ -1,10 +1,10 @@
-d42b427986acfa86dad5e71579295277 *ChangeLog
-580c7466d4c41e62d397eed896c244fa *DESCRIPTION
+7217818b0210ed00ff1d479d768fef99 *ChangeLog
+d5c7fcc9069acbb09acb36168891598f *DESCRIPTION
 ddfcf4daaf5b71cbdbbfdc8cdbc797ed *NAMESPACE
 946e6564399cf69089aaf2bdd2ec14cd *R/cox.kmi.R
-14b8caf85c17ac55ea17a1b42e3d0e0d *R/kmi.R
+bba387aefcb47431f3aaed0cb0bee241 *R/kmi.R
 433e23db8b80c6b899fe5235db056d9f *R/kmi.classic.R
-d420a5c943333e5e919d86b39d4269a8 *R/kmi.tdc.R
+bda73c0dc59f972c4a8cb60e02ebd732 *R/kmi.tdc.R
 49ed057c81830b95deba5139aaa55d88 *R/print.cox.kmi.R
 052b3bd2d78d458f491145cffb2d0667 *R/print.summary.cox.kmi.R
 f41407106aa9c0c1557deda7b3ee0731 *R/summary.cox.kmi.R
@@ -16,5 +16,5 @@ ea9190f47eb28aac50142acdb9b5cbc9 *man/kmi-package.Rd
 81a81bc076ae1286636c4e9ba3cd1121 *man/print.cox.kmi.Rd
 70cdcf49e398bb5178b515bac4f4cd26 *man/print.summary.cox.kmi.Rd
 b65a2d77e1cd4ae8586ec93092a44f01 *man/summary.cox.kmi.Rd
-17a86796978e079d6203d6c5886714e6 *tests/test.kmi.R
-54c1e806666d332d88273472c68dbc7e *tests/test.kmi.Rout.save
+1fc7e0c561de3ac7e7ec2fbd7e68404b *tests/test.kmi.R
+ba0380b422e3e6214cd82a3ae66cc2e2 *tests/test.kmi.Rout.save
