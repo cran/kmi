@@ -1,5 +1,5 @@
 7217818b0210ed00ff1d479d768fef99 *ChangeLog
-d5c7fcc9069acbb09acb36168891598f *DESCRIPTION
+3e5a27009a97481e62ad68fa0483dceb *DESCRIPTION
 ddfcf4daaf5b71cbdbbfdc8cdbc797ed *NAMESPACE
 946e6564399cf69089aaf2bdd2ec14cd *R/cox.kmi.R
 bba387aefcb47431f3aaed0cb0bee241 *R/kmi.R
@@ -11,10 +11,9 @@ f41407106aa9c0c1557deda7b3ee0731 *R/summary.cox.kmi.R
 66b2fa917ef690eb2788f500ca7483eb *data/icu.pneu.rda
 4cb110a554f1dcfe2c0413ec6e69c751 *man/cox.kmi.Rd
 c5c3dac6e0a7357e2a9ee6c8b3253016 *man/icu.pneu.Rd
-ea9190f47eb28aac50142acdb9b5cbc9 *man/kmi-package.Rd
 5567989d1b2bfb40f72307f179bc5568 *man/kmi.Rd
 81a81bc076ae1286636c4e9ba3cd1121 *man/print.cox.kmi.Rd
 70cdcf49e398bb5178b515bac4f4cd26 *man/print.summary.cox.kmi.Rd
 b65a2d77e1cd4ae8586ec93092a44f01 *man/summary.cox.kmi.Rd
 1fc7e0c561de3ac7e7ec2fbd7e68404b *tests/test.kmi.R
-ba0380b422e3e6214cd82a3ae66cc2e2 *tests/test.kmi.Rout.save
+90149f54b88923b783b49c30e40dd152 *tests/test.kmi.Rout.save
